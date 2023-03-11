@@ -17,4 +17,6 @@ Follow the course by completing first the notebooks, and then solving the lab ex
 
 **Note**: You will need a Python distribution to do the course. I recommend Anaconda. The preliminaries.pdf explains how to install Anaconda.
 
+**Acknowledgements**: Comments and corrections by Manuel David Soto Gonzalez, Wiktor Weibull, Lina Jonassen, and the PhDs who took the course greatly improved this content.
+
 Please send comments or questions to [nestor.cardozo@uis.no](mailto:nestor.cardozo@uis.no)
