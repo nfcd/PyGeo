@@ -13,7 +13,7 @@ This first part consists of five days, each one consisting of lectures (notebook
 
 - Day 5 covers well logs and seismic data. Notice that the data for the well logs' notebook are not included. These data are from the Norwegian Petroleum Directorate (NPD). If you are in Norway, please contact me and I would be happy to provide a link to the data.
 
-Follow the course by completing first the notebooks, and then solving the lab exercises. If you are new to Python, follow the days in sequential order, since every day builds up from the days before.
+**Instructions**: Follow the course by downloading or cloning the repository (click the green Code button). For every day (day1 to day5 folders), complete first the notebooks (files with ipynb extension in the notebooks folder), and then solve the lab exercises in the lab folder. If you are new to Python, I recommend following the course in sequential order, starting with the first notebook of day 1: day1/notebooks/day1_1.ipynb, and so on.
 
 **Note**: You will need a Python distribution to do the course. I recommend Anaconda. The preliminaries.pdf explains how to install Anaconda.
 
