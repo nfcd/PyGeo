@@ -1,7 +1,7 @@
 # PyGeo
-Python for Geosciences: This is the first part of a PhD course entitled "Python and Machine learning for Geosciences", which was offered by the University of Stavanger (part 1: Python, Nestor Cardozo) and the University of Oslo (part 2: ML, Behzad Alaei and Anita Torabi) on 2022, and was sponsored by [NFIP](https://nfip.no/2022/03/07/python-and-machine-learning-for-geosciences/).
+Python for Geosciences: This is the first part of a PhD course entitled "Python and Machine learning for Geosciences", which was offered by the University of Stavanger (part 1: Python, Nestor Cardozo) and the University of Oslo (part 2: ML, Behzad Alaei and Anita Torabi) on 2022 and 2023, and was sponsored by [NFIP](https://nfip.no).
 
-This first part consists of five days, each one consisting of lectures (notebooks folder), and lab exercises (lab folder). Data, figures, and functions are included in their corresponding folders.
+This first part is five days, each one consisting of lectures (notebooks folder), and lab exercises (lab folder). Data, figures, and functions are included in their corresponding folders.
 
 - Day 1 covers the fundamentals: Variable types, control flow, functions and classes.
 
